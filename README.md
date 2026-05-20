@@ -1,51 +1,35 @@
 <div align="center">
 
-<pre>
-╔═════════════════════════════════╗
-║     🖼️  Image-Processing-Basics  🖼️     ║
-╚═════════════════════════════════╝
-</pre>
+# Image Processing Fundamentals
 
-## Fundamental Image Processing Algorithms
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+*Foundational image processing operations implemented and explored — the building blocks of computer vision.*
 
 </div>
 
 ---
 
-## About
+## Topics covered
 
-A collection of **fundamental image processing algorithms** implemented from scratch in Python — an educational reference covering the building blocks of computer vision.
-
----
-
-## Features
-
-- Spatial filtering: Gaussian, Sobel, Laplacian
-- Morphological operations: erosion, dilation, opening, closing
-- Histogram equalisation and adaptive thresholding
-- Frequency domain processing (FFT-based filters)
+- **Colour spaces** — RGB, HSV, Lab conversions and applications
+- **Filtering** — Gaussian, median, bilateral, Sobel, Laplacian
+- **Edge detection** — Canny, Sobel, gradient magnitude
+- **Morphological operations** — erosion, dilation, opening, closing
+- **Histograms** — histogram equalisation, CLAHE
+- **Thresholding** — global, adaptive, Otsu's method
+- **Geometric transforms** — rotation, scaling, affine, perspective warp
+- **Feature detection** — Harris corners, SIFT keypoints
 
 ---
 
-## Tech Stack
+## Tech stack
 
-**Python** · **NumPy** · **OpenCV** · **Matplotlib**
-
----
-
-## Tags
-
-`Image Processing`  `Computer Vision`  `Education`
+`Python` · `OpenCV` · `NumPy` · `Matplotlib`
 
 ---
 
-## Author
-
-**Ashish (Yami1106)**
-[GitHub](https://github.com/Yami1106) · [Portfolio](https://yamiportfolio.netlify.app/)
-
----
-
-*Generated with [Automate_contribution](https://github.com/Yami1106/Automate_contribution)*
+<div align="center">
+<a href="https://github.com/Yami1106">Ashish Sukumar</a>
+</div>
